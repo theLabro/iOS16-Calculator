@@ -2,7 +2,7 @@
 
 A pixel-perfect clone of the iOS 16 Calculator built using HTML, CSS, and JavaScript. This project replicates the look and functionality of the iPhone's native calculator app using only front-end web technologies.
 
-<img src=IOS16_Calculator/images/calculator.png>
+<img src=iOS16_Calculator/images/calculator.png>
 
 ## 🚀 Features
 
