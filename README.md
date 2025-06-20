@@ -20,7 +20,6 @@ Inspired by Apple's iOS 16 Calculator
 Fonts, icons, and visual elements recreated manually
 
 <br>
-<br>
 
  
    <h3>Main Objectives</h3>
