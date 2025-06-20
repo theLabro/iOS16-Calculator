@@ -13,6 +13,7 @@ A pixel-perfect clone of the iOS 16 Calculator built using HTML, CSS, and JavaSc
     </div>
 </div>
 
+<br>
 ## 🚀 Features
 
 - Fully functional calculator with:
