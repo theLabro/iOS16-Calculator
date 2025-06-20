@@ -30,6 +30,3 @@ Fonts, icons, and visual elements recreated manually
 </div>
 <br>
 <br>
-
-📄 License
-This project is licensed under the MIT License.
