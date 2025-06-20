@@ -21,4 +21,26 @@ A pixel-perfect clone of the iOS 16 Calculator built using HTML, CSS, and JavaSc
 - **JavaScript (Vanilla)** — Calculator logic and interactivity
 
 ## 📂 Project Structure
+iOS16-Calculator-Clone/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+🎯 Purpose
+This project was created to:
+
+Practice building UIs with HTML/CSS
+
+Reinforce JavaScript fundamentals
+
+Replicate Apple’s design language using front-end skills
+
+🙌 Acknowledgements
+Inspired by Apple's iOS 16 Calculator
+
+Fonts, icons, and visual elements recreated manually
+
+📄 License
+This project is licensed under the MIT License.
 
